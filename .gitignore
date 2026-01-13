@@ -1,0 +1,9 @@
+# Arquivos de áudio
+*.wav
+*.mp3
+
+# Variáveis de ambiente
+.env
+
+# Arquivos temporários
+__pycache__/
